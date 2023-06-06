@@ -12,7 +12,7 @@ service/setting.gradle
 
 
 # IntelliJ
-.idea
+
 *.ipr
 *.iml
 *.iws
